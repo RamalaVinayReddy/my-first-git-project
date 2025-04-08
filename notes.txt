@@ -1,2 +1,3 @@
 this is the line add after creation of new branch called new-feature.
 add this text for test to push the new-feture branch into main branch after update the text, with help of merge in orgin github repo.
+After installing github desktop adding this for test to merge into file with help of github tool features with cmd or bash
